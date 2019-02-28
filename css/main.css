@@ -15,4 +15,42 @@ html {
 
 tbody td {
   height: 8.5em;
+  border-bottom-color: #ccc;
+}
+
+table {
+  border: 1px solid #ccc;
+}
+
+th {
+  border-bottom-color: #ccc;
+}
+
+.grey {
+  background-color: #ccc;
+  border-color: #666;
+  color: #333;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border-color: #b92828;
+  color: #991919;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border-color: #6b7e54;
+  color: #51603f;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  border-color: #1d38da;
+  color: #38448e;
+}
+
+div {
+  border: 1px solid;
+  border-radius: 8px;
 }
